@@ -4,7 +4,6 @@
 
 Sales Analysis Project using PySpark &amp; Databricks
 
-Link: https://dbc-d55ed890-d91f.cloud.databricks.com/editor/notebooks/3367082247147035?o=7474660241991405 
 ---------------------------------------------------------------------
 🚀 Project Overview
 
